@@ -5,14 +5,12 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Ömer faruk aras](https://elixxrades.xyz) Full-Stack developer.
+### I'm Cihan Yüksel - Student.
 
-- 👨‍💻 Currently working on web development technologies NodeJs, Ruby, Ejs, CSS etc.
-- 📚 Learning everything about Frontend and Backend technologies 😉
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play valorant and cs:go 🎱.
-- 😉 I'm making advanced discord bots.
-- I am sharing open source projects [here](https://github.com/FlexieTeam).
+- 📚 Learning English fot better communication 😉
+- 💪🏼 Future Goals: Be a police.
+- ⚡ Fun fact: I love to play Euro Truck Simulator 2 🎱.
+- I've a magazine website. Posting news for Turkey in [Kargı Manşet](https://kargimanset.xyz)
 
 ---
 
