@@ -18,13 +18,13 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0uhvfujhjiebwiassu0z3ge1l&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0uhvfujhjiebwiassu0z3ge1l&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true)
 
 ---
 
 ## Visitor hit : ![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
-### Contact with me [Mail](mailto:root@elixxrades.xyz)
+### Contact with me [Instagram](https://instagram.com/cihanthestephan)
 
 ---
 
