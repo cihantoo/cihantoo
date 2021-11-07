@@ -18,7 +18,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true) <img align="right" alt="GIF" height="170px" src="https://prnt.sc/1ynlavt" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true) <img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/indir.png" />
 
 ---
 
