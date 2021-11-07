@@ -18,13 +18,15 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true) <img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/indir.png" /> <img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/muslum-gursesin-tupac-ve-snoop-dogg-ile-fotografi-oldugu-iddiasi.jpg" /> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true) <img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/indir.png" /> 
 
 ---
 
 ## Visitor hit : ![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
 ### Contact with me [Instagram](https://instagram.com/cihanthestephan)
+
+<img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/muslum-gursesin-tupac-ve-snoop-dogg-ile-fotografi-oldugu-iddiasi.jpg" /> 
 
 ---
 
