@@ -47,8 +47,7 @@
 ---
 
 ### Discord servers 🛠 
-[Redoya Internet and Information Services](https://discord.gg/N9cHzYM)<br/>
-[My private server](https://discord.gg/9WFM2w2cNx)
+[Kargı Manşet (Posting news to Turkey)](https://discord.gg/nNMF9JzQWj)<br/>
 <br/>
 
 
