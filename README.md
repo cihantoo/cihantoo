@@ -8,7 +8,7 @@
 
 ### I'm Cihan Yüksel - Student.
 
-- 📚 Learning English fot better communication 😉
+- 📚 Learning English for better communication 😉
 - 💪🏼 Future Goals: Be a police.
 - ⚡ Fun fact: I love to play Euro Truck Simulator 2 🎱.
 - I've a magazine website. Posting news for Turkey in [Kargı Manşet](https://kargimanset.xyz)
