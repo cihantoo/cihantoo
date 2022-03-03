@@ -1,68 +1,24 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<h1 align="center" style="display:none;"></h1>
+<h1 align="center">Hi 👋, I'm Cihan</h1>
+<h3 align="center">A HighSchool student from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sussystephan&label=Profile%20views&color=b40e0e&style=flat" alt="sussystephan" /> </p>
 
+- 🔭 I’m currently working on [KARGI - Hosting, Tech News](https://kargi.web.tr)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+- 🌱 I’m currently learning **CSS3 Frameworks**
 
+- 👨‍💻 All of my projects are available at [https://2070.tech](https://2070.tech)
 
-### I'm Cihan Yüksel - Student.
+- 📝 I regularly write articles on [https://kargimanset.xyz](https://kargimanset.xyz)
 
-- 📚 Learning English for better communication 😉
-- 💪🏼 Future Goals: Be a police.
-- ⚡ Fun fact: I love to play Euro Truck Simulator 2 🎱.
-- I've a magazine website. Posting news for Turkey in [Kargı Manşet](https://kargimanset.xyz)
+- 📫 How to reach me **cihan@kargi.web.tr**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cihanthestephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cihanthestephan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cihan yüksel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan yüksel" height="30" width="40" /></a>
+<a href="https://instagram.com/cihanthestephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cihanthestephan" height="30" width="40" /></a>
+</p>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=65ovjferi2l0aisip65dvovru&redirect=true)
-
----
-
-## Visitor hit : ![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
-
-### Contact with me [Instagram](https://instagram.com/cihanthestephan)
-
-<img align="right" alt="GIF" height="170px" src="https://kargimanset.xyz/wp-content/uploads/2021/11/muslum-gursesin-tupac-ve-snoop-dogg-ile-fotografi-oldugu-iddiasi.jpg" /> 
-
----
-
-### Using technologies 🛠 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-<br/>
-
----
-
-### Discord servers 🛠 
-[Kargı Manşet (Posting news to Turkey)](https://discord.gg/nNMF9JzQWj)<br/>
-<br/>
-
-
-
-<!--
-**sussystephan/sussystephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
