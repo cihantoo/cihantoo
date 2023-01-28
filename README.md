@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
-<h3 align="center">A HighSchool student from Turkey</h3>
+<h3 align="center">a HighSchool student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sussystephan&label=Profile%20views&color=b40e0e&style=flat" alt="sussystephan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sussystephan&label=Profile%20views&color=b40e0e&style=flat" alt="cihanyuksell" /> </p>
 
-- 🔭 I’m currently working on [KARGI - Hosting, Tech News](https://kargi.web.tr)
+- 🔭 I’m currently working on [LAYERNET - LAYER.NET.TR WEB HOSTING](https://layer.net.tr)
 
 - 🌱 I’m currently learning **CSS3 Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://2070.tech](https://2070.tech)
+- 👨‍💻 All of my projects are available at [xx](xx)
 
-- 📝 I regularly write articles on [https://kargimanset.xyz](https://kargimanset.xyz)
+- 📝 I regularly write articles on [xx](xx)
 
-- 📫 How to reach me **cihan@kargi.web.tr**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cihanthestephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cihanthestephan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cihan yüksel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan yüksel" height="30" width="40" /></a>
-<a href="https://instagram.com/cihanthestephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cihanthestephan" height="30" width="40" /></a>
+<a href="https://twitter.com/cihangobrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cihanthestephan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cihanthestephan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan yüksel" height="30" width="40" /></a>
+<a href="https://instagram.com/cihantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cihanthestephan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
