@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sussystephan&label=Profile%20views&color=b40e0e&style=flat" alt="cihanyuksell" /> </p>
 
-- 🔭 I’m currently working on [LAYERNET - LAYER.NET.TR WEB HOSTING](https://layer.net.tr)
+- 🔭 I’m currently working on [TEKNOFEST - DENEYAP KART ROBLING](https://layer.net.tr)
 
-- 🌱 I’m currently learning **CSS3 Frameworks**
+- 🌱 I’m currently learning **C++ & C#**
 
 - 👨‍💻 All of my projects are available at [xx](xx)
 
