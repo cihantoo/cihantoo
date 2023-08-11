@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cihan</h1>
+<h1 align="center">Hi 👋, I'm Cihan a.k.a cihantoo & Stephan</h1>
 <h3 align="center">a HighSchool student from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sussystephan&label=Profile%20views&color=b40e0e&style=flat" alt="cihanyuksell" /> </p>
